@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaydatt-kher
 - 👀 I’m interested in learning codes with their functions which is used in that program 
-- 🌱 I’m currently learning **nodejs,react,java and also 
+- 🌱 I’m currently learning **nodejs,react,java and also Machine Learning field 
 
 
 <!---
